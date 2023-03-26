@@ -15,7 +15,7 @@ body{
 }
 
 .Container{
-    margin-top: 5em;
+    margin: auto;
     width: 400px;
     height: 80vh;
     background-color: #4c52ad;
@@ -125,6 +125,7 @@ body{
 }
 
 .search{
+    margin: auto;
     margin-bottom: 1em;
     text-align: center;
 }
